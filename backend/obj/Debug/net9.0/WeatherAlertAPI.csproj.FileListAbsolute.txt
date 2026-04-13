@@ -1,0 +1,61 @@
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\bin\Debug\net9.0\appsettings.json
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\bin\Debug\net9.0\WeatherAlertAPI.staticwebassets.endpoints.json
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\bin\Debug\net9.0\WeatherAlertAPI.exe
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\bin\Debug\net9.0\WeatherAlertAPI.deps.json
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\bin\Debug\net9.0\WeatherAlertAPI.runtimeconfig.json
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\bin\Debug\net9.0\WeatherAlertAPI.dll
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\bin\Debug\net9.0\WeatherAlertAPI.pdb
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\WeatherAlertAPI.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\WeatherAlertAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\WeatherAlertAPI.AssemblyInfoInputs.cache
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\WeatherAlertAPI.AssemblyInfo.cs
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\WeatherAlertAPI.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\WeatherAlertAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\scopedcss\bundle\WeatherAlertAPI.styles.css
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\WeatherA.7EFDD84D.Up2Date
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\WeatherAlertAPI.dll
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\refint\WeatherAlertAPI.dll
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\WeatherAlertAPI.pdb
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\WeatherAlertAPI.genruntimeconfig.cache
+C:\Users\TUF\Desktop\WeatherAlertManagement\backend (ASP.NET Core API)\obj\Debug\net9.0\ref\WeatherAlertAPI.dll
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\bin\Debug\net9.0\appsettings.json
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\bin\Debug\net9.0\WeatherAlertAPI.staticwebassets.endpoints.json
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\bin\Debug\net9.0\WeatherAlertAPI.exe
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\bin\Debug\net9.0\WeatherAlertAPI.deps.json
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\bin\Debug\net9.0\WeatherAlertAPI.runtimeconfig.json
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\bin\Debug\net9.0\WeatherAlertAPI.dll
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\bin\Debug\net9.0\WeatherAlertAPI.pdb
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\WeatherAlertAPI.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\WeatherAlertAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\WeatherAlertAPI.AssemblyInfoInputs.cache
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\WeatherAlertAPI.AssemblyInfo.cs
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\WeatherAlertAPI.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\WeatherAlertAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\scopedcss\bundle\WeatherAlertAPI.styles.css
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\WeatherA.7EFDD84D.Up2Date
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\WeatherAlertAPI.dll
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\refint\WeatherAlertAPI.dll
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\WeatherAlertAPI.pdb
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\WeatherAlertAPI.genruntimeconfig.cache
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\obj\Debug\net9.0\ref\WeatherAlertAPI.dll
+C:\Users\TUF\Desktop\Projects\WeatherAlertManagement\backend\bin\Debug\net9.0\package-lock.json
