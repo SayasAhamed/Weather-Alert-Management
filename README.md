@@ -17,6 +17,7 @@ The **Weather Alert Management System** allows users to:
 
 ---
 
+
 ## ⚙️ Tech Stack
 
 ### 🖥️ Frontend
@@ -41,6 +42,13 @@ The **Weather Alert Management System** allows users to:
 * Temperature, humidity, pressure
 * Wind speed, visibility, cloudiness
 * Sunrise & sunset times
+<br>
+<div>
+   <img src="Screenshots\1.png">
+   <img src="Screenshots\2.png">
+   <img src="Screenshots\3.png">
+</div>
+<br>
 
 ### ⚠️ Smart Alert System
 
